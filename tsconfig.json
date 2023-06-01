@@ -12,8 +12,8 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "paths": {
-      "my-lib": [
-        "dist/my-lib"
+      "ngx-hero-utils": [
+        "dist/ngx-hero-utils"
       ]
     },
     "declaration": false,
