@@ -1,4 +1,19 @@
+# Add files here to ignore them from prettier formatting
 /dist
+/coverage
+node_modules
+package-lock.json
+documentation
+e2e
+*.md
+*.json
+*.yml
+*.yaml
+*.lock
+*.log
+*.txt
+*.xml
+**/*.
 /tmp
 /out-tsc
 /coverage
@@ -6,5 +21,4 @@
 /integration/**/dist
 /src/schematics/
 /.angular/
-**/test.ts
-**/*.md
+**/test.tsmd
