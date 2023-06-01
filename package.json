@@ -1,6 +1,26 @@
 {
   "name": "ngx-hero-utils",
   "version": "0.0.3",
+  "author": "Poula Helmy <poula.helmy.mousa@gmail.com>",
+  "contributors": [
+    "Poula Helmy <poula.helmy.mousa@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "utils",
+    "ngx-hero-utils",
+    "helper-functions"
+  ],
+  "license": "MIT",
+  "description": "NGX-Heroes-utils is a library for angular that contains a lot of helper functions that can be used in any angular project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PoulaHelmy/angular-lib-test"
+  },
+  "bugs": {
+    "url": "https://github.com/PoulaHelmy/angular-lib-test/issues"
+  },
+  "homepage": "https://github.com/PoulaHelmy/angular-lib-test#readme",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
