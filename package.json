@@ -1,12 +1,20 @@
 {
   "name": "ngx-hero-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "lint1": "ng lint  --fix",
+    "lint2": "npx eslint \\\\\\\"src/**/*.{js,jsx,ts,tsx,html,css,scss}\\\\\\\" --quiet --fix",
+    "lint": "tsc --noEmit && eslint . --ext js,ts,json --quiet --fix",
+    "format": "prettier --write \\\\\\\"src/app/**/*.{js,json,css,scss,less,md,ts,html,component.html}\\\\\\\" ",
+    "prepare": "husky install",
+    "lint-staged": "lint-staged — config .lintstagedrc",
+    "commit": "git-cz",
+    "release": "standard-version"
   },
   "private": true,
   "dependencies": {
