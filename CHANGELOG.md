@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/PoulaHelmy/angular-lib-test/compare/v0.0.3...v0.0.4) (2023-06-02)
+
+
+### Features
+
+* **format-utils:** :sparkles: adding format utils ([8fd7395](https://github.com/PoulaHelmy/angular-lib-test/commit/8fd739598e4b5aac259bae176ba905033b8402a7))
+
+
+### Docs
+
+* **general:** :memo: adding more info about library ([11187ef](https://github.com/PoulaHelmy/angular-lib-test/commit/11187ef799d6e0e86b4d6e8cde9ca72cb78fb89b))
+* **general:** :memo: updating library info ([ba02e6d](https://github.com/PoulaHelmy/angular-lib-test/commit/ba02e6d802d7f611c3b6a64e1a77a027744386e5))
+
 ### [0.0.3](https://github.com/PoulaHelmy/angular-lib-test/compare/v0.0.2...v0.0.3) (2023-06-01)
 
 
